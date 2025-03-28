@@ -1,5 +1,5 @@
 # Angualr18
-
+node v 22.14.0 , angular 18.2.16
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 18.2.16.
 
 ## Development server
